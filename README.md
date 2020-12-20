@@ -1,2 +1,2 @@
 Video Speed Controller  
-Demo:
+Demo: https://hauteballe.github.io/Video-Speed-Controller/
